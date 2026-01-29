@@ -77,6 +77,26 @@
   {
     "n_concurso": 2950,
     "numeros_sorteados": [21, 23, 42, 49, 50, 60],
-    "data_sorteio": ""
+    "data_sorteio": "11/12/2025"
+  },
+  {
+    "n_concurso": 2949,
+    "numeros_sorteados": [4, 6, 11, 38, 49, 54],
+    "data_sorteio": "09/12/2025"
+  },
+  {
+    "n_concurso": 2948,
+    "numeros_sorteados": [6, 24, 37, 52, 53, 58],
+    "data_sorteio": "06/12/2025"
+  },
+  {
+    "n_concurso": 2947,
+    "numeros_sorteados": [4, 10, 15, 37, 39, 44],
+    "data_sorteio": "06/12/2025"
+  },
+  {
+    "n_concurso": 2946,
+    "numeros_sorteados": [4, 13, 17, 21, 49, 54],
+    "data_sorteio": "02/12/2025"
   }
 ]
