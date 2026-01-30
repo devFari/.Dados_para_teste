@@ -1,5 +1,10 @@
 [
   {
+    "n_concurso": 6940,
+    "numeros_sorteados": [24, 53, 66, 73, 77],
+    "data_sorteio": "29/01/2026"
+  },
+  {
     "n_concurso": 6939,
     "numeros_sorteados": [10, 26, 27, 55, 73],
     "data_sorteio": "28/01/2026"
@@ -131,7 +136,7 @@
   {
     "n_concurso": 6917,
     "data_sorteio": "01/01/2026",
-    "numeros_sorteados": [08, 54, 58, 72, 76]
+    "numeros_sorteados": [8, 54, 58, 72, 76]
   },
   {
     "n_concurso": 6577,
